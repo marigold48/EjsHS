@@ -1,0 +1,2 @@
+doble x = x + x
+cuadr x = doble (doble x)
